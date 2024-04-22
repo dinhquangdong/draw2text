@@ -1,0 +1,4 @@
+TODO:
+	1. Create a website for user to draw a digit on white board
+	2. Train model to recognize digit from a image ==> DONE
+	3. Advanced: recognize a sequence of chars
